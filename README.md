@@ -88,7 +88,7 @@ In order to compile the source code on your machine the following requirements h
     * clang >= 3.4
     * MSVC >= 14 (Visual Studio 2015)
     * MinGW >= 4.9
-* [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) for png/jpg support (optional)
+* [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) for png/jpg support (optional) (install with sudo apt install libsfml-dev)
 
 The following external libraries are used by geomandel and are part of the
 applications source code:
